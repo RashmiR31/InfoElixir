@@ -1,0 +1,19 @@
+# updation data model
+{
+  "name": "likith",
+  "subject": "Graph",
+  "topics": {"list_of_topics": ["travesal","bfs","dfs"]}
+}
+
+# initial data model
+{
+  "name": "newname",
+  "subject": {"onesub":["one","new","topic"],"twosub":["another","new","topic"]}
+}
+
+
+{
+  "name": "rashmi",
+  "subject": "ML",
+  "topic": {"title":"algorithm","file_path":"/Users/rashmir/Desktop/hack/Assignment_RM.pdf"}
+}

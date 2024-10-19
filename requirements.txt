@@ -1,0 +1,12 @@
+neo4j
+GOOGLE_APPLICATION_CREDENTIALS=/Users/rashmir/Downloads/infoelixir-439008-e9703b69b445.json
+Flask
+Flask-RESTx
+google-cloud-storage
+langchain
+openai
+langchain_openai
+langchain_community
+streamlit
+matplotlib 
+networkx
